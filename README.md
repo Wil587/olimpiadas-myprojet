@@ -1,4 +1,4 @@
-##  **README.md Descontraído para sua Aplicação de Pesquisa de Atletas**
+##  Desvendando Atletas - Imersão Dev com Google Gemini
 
 ###  **O que essa aplicação faz?**
 
